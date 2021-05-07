@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="choice" table="x_snc_audio_test_choice_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>choice</element>
+            <name>x_snc_audio_test_choice_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:12:38</sys_created_on>
+            <sys_id>2f5c7c2c1bc83010593876a61a4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>choice</sys_name>
+            <sys_package display_value="audio_test" source="x_snc_audio_test">34cb3ce81bc83010593876a61a4bcbfe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="audio_test">34cb3ce81bc83010593876a61a4bcbfe</sys_scope>
+            <sys_update_name>sys_choice_x_snc_audio_test_choice_table_choice</sys_update_name>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:12:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>monday</label>
+            <language>en</language>
+            <name>x_snc_audio_test_choice_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:12:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f74c7c2c1bc83010593876a61a4bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:12:38</sys_updated_on>
+            <value>monday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>tuesday</label>
+            <language>en</language>
+            <name>x_snc_audio_test_choice_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:13:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb6cbc2c1bc83010593876a61a4bcb7f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:13:06</sys_updated_on>
+            <value>turesday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>wednesday</label>
+            <language>en</language>
+            <name>x_snc_audio_test_choice_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:13:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b97cfc2c1bc83010593876a61a4bcb17</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:13:19</sys_updated_on>
+            <value>wednesday</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

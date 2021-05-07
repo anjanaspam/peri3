@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="choice table" max_length="40" name="x_snc_audio_test_choice_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Choice" max_length="40" name="choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="monday" value="monday"/>
+                <element inactive_on_update="false" label="tuesday" value="turesday"/>
+                <element inactive_on_update="false" label="wednesday" value="wednesday"/>
+            </choice>
+        </element>
+    </element>
+</database>
